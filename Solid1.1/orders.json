@@ -1,0 +1,14 @@
+{
+  "ItemList": [
+    {
+      "Name": "Apple",
+      "Price": 0.5,
+      "Quantity": 12
+    },
+    {
+      "Name": "Banana",
+      "Price": 0.3,
+      "Quantity": 12
+    }
+  ]
+}
